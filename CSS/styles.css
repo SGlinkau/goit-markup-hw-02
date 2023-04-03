@@ -28,15 +28,15 @@ body {
   list-style: none;
 }
 
-.navs-link {
+.navigation-link {
   text-decoration: none;
   color: #212121;
   font-size: 14px;
   line-height: 1,142;
 }
 
-.navs-link:hover,
-.navs-link:focus {
+.navigation-link:hover,
+.navigation-link:focus {
   text-decoration: none;
   color: #2196f3;
   font-size: 14px;  
@@ -108,11 +108,11 @@ body {
   color: #FFFFFF;
 }
 
-.paragraphs ul{
+.our-advantages ul{
   list-style-type: none;
 }
 
-.paragraphs ul h2{
+.our-advantages ul h2{
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -122,7 +122,7 @@ body {
   color: #212121;  
 }
 
-#paragraphs li{
+.paragraphs li{
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
