@@ -14,7 +14,7 @@ body {
   font-family: Raleway;
   text-decoration: none;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1,192;
   letter-spacing: 0.03em;
@@ -208,7 +208,7 @@ body {
   background: #2F303A;
 }
 
-.adress{
+.address{
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -217,7 +217,7 @@ body {
   color: #FFFFFF;  
 }
 
-.adress .contacts-link{
+.address .contacts-link{
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -226,7 +226,7 @@ body {
   color: rgba(255, 255, 255, 0.6);
 }
 
-.adress .contacts-link:hover,
+.address .contacts-link:hover,
 .contacts-link:focus{
   font-style: normal;
   font-weight: normal;
