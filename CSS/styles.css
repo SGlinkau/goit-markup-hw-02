@@ -63,11 +63,11 @@ body {
   line-height: 1,142;    
 }
 
-.container{
+.order-container{
   background: #2F303A;
 }
 
-.container h1{
+.order-container h1{
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
